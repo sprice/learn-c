@@ -2,4 +2,5 @@ Adventures in learning C using [Learn C The Hard Way](http://c.learncodethehardw
 
 Current Status:
 
-* Completed exercise 2
+* Complete: Exercise 2
+* Current: Exercise 3
